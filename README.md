@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://camo.githubusercontent.com/31661bea65c8915a22b291e2442342dba304e8fc9f7ae45bcfb30d9bd9ce18d1/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67)
 <h1 align="center">Hi 👋, I'm Dipraj Goswami</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966")
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipraj123" alt="dipraj123" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🌱 I’m currently learning **Spring Boot**
 
